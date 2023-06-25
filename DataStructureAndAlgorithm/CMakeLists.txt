@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 #enable_testing()
 #include(GoogleTest)
 
-add_executable(array_list src/array_list/array_list.cpp)
+add_executable(test src/test/test.cpp)
